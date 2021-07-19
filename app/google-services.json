@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "993016509065",
+    "project_id": "shoppinghub-f3763",
+    "storage_bucket": "shoppinghub-f3763.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993016509065:android:e561db6d645d192d49cc58",
+        "android_client_info": {
+          "package_name": "com.example.shoppinghub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993016509065-071r29iuqjv5st3tqbnknsegf4rog0tb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shoppinghub",
+            "certificate_hash": "ef5bae698280faaa0b97ec152e67d609ef82a58f"
+          }
+        },
+        {
+          "client_id": "993016509065-ls042lak5v7clf7jg4gjpsuc6ra56v1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVQVrevTot6mD85fPqbVTlFf05rQJzgPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993016509065-ls042lak5v7clf7jg4gjpsuc6ra56v1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
